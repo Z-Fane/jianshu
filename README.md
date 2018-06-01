@@ -14,6 +14,10 @@
 - scrapy-redis
 - python 3.6
 - sqlyalchemy+mysql
+# 启动
+启动Redis服务
+启动lpush_redis.py
+启动begin.py
 
 # 运行截图
 ![jietu](/screenshots/20180601085022.png)
